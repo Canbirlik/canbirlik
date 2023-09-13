@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=canbirlik&show_icons=true">
 
-# Merhaba, ben Can Birlik! 
+# Hi, I'm Can Birlik! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canbirlik" alt="canbirlik" /> </p>
 
 [![](https://img.shields.io/twitter/follow/canbrlk?style=social)](https://www.twitter.com/canbrlk)
