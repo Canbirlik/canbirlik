@@ -1,13 +1,40 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=canbirlik&show_icons=true">
+# Hi, I'm Can Birlik 👋
 
-# Hi, I'm Can Birlik! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canbirlik" alt="canbirlik" /> </p>
+**Data & Cloud Solution Architect | Databricks | Snowflake | Cloud Platforms | Generative AI**
 
-[![](https://img.shields.io/twitter/follow/canbrlk?style=social)](https://www.twitter.com/canbrlk)
-[![](https://img.shields.io/github/followers/canbirlik?style=social)](https://www.github.com/canbirlik)
+I design enterprise data platforms and cloud solutions, with a focus on lakehouse architectures, data engineering, governance, and AI-enabled applications. My background combines hands-on architecture with technology consulting and enterprise presales.
 
+## Focus Areas
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/canbrlk)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canbirlik/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canbirlik)
-[![Mail Badge](https://img.shields.io/badge/canbirlik@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:canbirlik@gmail.com)](mailto:canbirlik@gmail.com)
+- **Data Platforms:** Databricks, Snowflake, Apache Spark, Lakehouse Architecture
+- **Cloud & Infrastructure:** AWS, Microsoft Azure, Terraform, Docker, Kubernetes
+- **Data Engineering:** Python, ETL/ELT, workflow orchestration, platform automation
+- **AI Engineering:** Generative AI, RAG, AI agents, multi-agent systems, Model Context Protocol (MCP)
+- **Architecture:** Enterprise solution design, data governance, security, scalability
+
+## Selected Work
+
+A few repositories and hands-on learning projects that reflect my current technical interests:
+
+| Area | Repository |
+|---|---|
+| Databricks & Generative AI | [DatabricksGenAIEngineer](https://github.com/Canbirlik/DatabricksGenAIEngineer) |
+| Snowflake | [snowflake_training](https://github.com/Canbirlik/snowflake_training) |
+| AI Agents | [ai-dial-general-purpose-agent](https://github.com/Canbirlik/ai-dial-general-purpose-agent) |
+| MCP | [ai-dial-mcp-fundamentals](https://github.com/Canbirlik/ai-dial-mcp-fundamentals) |
+| Multi-Agent Systems | [ai-dial-mas-mesh](https://github.com/Canbirlik/ai-dial-mas-mesh) |
+| Data Platform Architecture | [apache_airflow_vs_databricks](https://github.com/Canbirlik/apache_airflow_vs_databricks) |
+| AI Application Development | [ai-applications-development-from-api-to-agents](https://github.com/Canbirlik/ai-applications-development-from-api-to-agents) |
+
+Some repositories are practical exercises or learning projects based on external courses and workshops; their README files describe the scope and context.
+
+## Find Me Online
+
+- [LinkedIn](https://www.linkedin.com/in/canbirlik/)
+- [Personal website](https://www.canbirlik.com)
+- [YouTube](https://www.youtube.com/@canbirlik)
+- [Email](mailto:canbirlik@gmail.com)
+
+---
+
+*Always learning, building, and exploring the intersection of data platforms, cloud architecture, and AI.*
