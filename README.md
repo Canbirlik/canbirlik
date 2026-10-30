@@ -14,19 +14,17 @@ I design enterprise data platforms and cloud solutions, with a focus on lakehous
 
 ## Selected Work
 
-A few repositories and hands-on learning projects that reflect my current technical interests:
+A selection of public repositories and hands-on learning projects:
 
 | Area | Repository |
 |---|---|
 | Databricks & Generative AI | [DatabricksGenAIEngineer](https://github.com/Canbirlik/DatabricksGenAIEngineer) |
 | Snowflake | [snowflake_training](https://github.com/Canbirlik/snowflake_training) |
-| AI Agents | [ai-dial-general-purpose-agent](https://github.com/Canbirlik/ai-dial-general-purpose-agent) |
-| MCP | [ai-dial-mcp-fundamentals](https://github.com/Canbirlik/ai-dial-mcp-fundamentals) |
-| Multi-Agent Systems | [ai-dial-mas-mesh](https://github.com/Canbirlik/ai-dial-mas-mesh) |
 | Data Platform Architecture | [apache_airflow_vs_databricks](https://github.com/Canbirlik/apache_airflow_vs_databricks) |
 | AI Application Development | [ai-applications-development-from-api-to-agents](https://github.com/Canbirlik/ai-applications-development-from-api-to-agents) |
+| AI Agent Use Cases | [openclaw_use_cases](https://github.com/Canbirlik/openclaw_use_cases) |
 
-Some repositories are practical exercises or learning projects based on external courses and workshops; their README files describe the scope and context.
+Some repositories are practical exercises or learning projects based on external courses and workshops; their README files describe the scope and context. Company-related or employer-environment projects are intentionally not featured here.
 
 ## Find Me Online
 
